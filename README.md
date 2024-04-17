@@ -7,7 +7,7 @@ ini preview struktur databasenya
 ```
 
 ##
-web.php=routes
-firstController.php=controller
-2024_04_17_134456_create_posts_table.php=migration
-posts=views
+web.php=routes,
+firstController.php=controller,
+2024_04_17_134456_create_posts_table.php=migration,
+posts=views,
